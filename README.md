@@ -77,8 +77,3 @@ Silhouette Score: 0.55
 A Silhouette Score closer to 1.0 indicates well-separated clusters.
 
 
-
-
----
-
-Let me know if you want help creating a requirements.txt, Python script (.py), or a PDF summary of this.
